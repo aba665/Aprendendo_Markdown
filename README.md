@@ -111,7 +111,7 @@ Podemos observar que criamos um monoespaço com um fundo cinza onde mostramos um
 
 ### Dermacação de um Código
 
-Para demarcar um codigo utilizamos também a crase só que ao invés de colocar só uma crase e fechá-la, colocaremos três crase e fechamos a crase.
+Para demarcar um codigo utilizamos também a crase só que ao invés de colocar só duas crase e fechá-la, colocaremos três crase e fechamos a crase.
 
 Ex: Olha o meu programa em C para o cálculo de desconto em um caixa
 ```
