@@ -1,6 +1,6 @@
 # Conhecendo o Markdown
 
-Resumidamente o Markdown foi criado por o programador de computador  Aaron Swartz e o designer de UI John Gruber com o intuito de fazer com que as pessoas conseguissem entender o texto melhor e que a conversão de Markdown para Html fosse de certa maneira fácil de se realizar, haja vista que em outras linguagens de marcação como o __Html__ por exemplo, onde a leitura de todo o código pode se tornar confusa. Sabendo-se disso vamos aprender  os caracteres do **Markdown**.
+Resumidamente o Markdown foi criado por o programador de computador  Aaron Swartz e o designer de UI John Gruber com o intuito de fazer com que as pessoas conseguissem entender o texto melhor e que a conversão de Markdown para Html fosse de certa maneira fácil de se realizar, haja vista que em outras linguagens de marcação como o __Html__ por exemplo,  onde a leitura de todo o código html pode se tornar um pouco confusa por questão de muitas tags e especifições. Sabendo-se disso vamos aprender  os caracteres do **Markdown**.
 
 ## Criando títulos
 
