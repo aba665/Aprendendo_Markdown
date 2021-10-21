@@ -2,6 +2,7 @@
 
 Resumidamente o Markdown foi criado por o programador de computador  Aaron Swartz e o designer de UI John Gruber com o intuito de fazer com que as pessoas conseguissem entender o texto melhor e que a conversão de Markdown para Html fosse de certa maneira fácil de se realizar, haja vista que em outras linguagens de marcação como o __Html__ por exemplo,  onde a leitura de todo o código html pode se tornar um pouco confusa por questão de muitas tags e especificações. Sabendo-se disso vamos aprender  os caracteres do **Markdown**.
 
+
 ## Criando títulos
 
 "#" - A cerquilha ou jogo da velha é utilizado para criar título e esses titulos tem seis variações de tamanhos que pode ser criado  com o acréscimo de mais uma cerquilha até chegar o número final de variações que é seis:
@@ -111,7 +112,7 @@ Podemos observar que criamos um monoespaço com um fundo cinza onde mostramos um
 
 ### Dermacação de um Código
 
-Para demarcar um codigo utilizamos também a crase só que ao invés de colocar só duas crase e fechá-la, colocaremos três crase e fechamos a crase.
+Para demarcar um código utilizamos também a crase só que ao invés de colocar só duas crase e fechá-la, colocaremos três crase e fechamos a crase.
 
 Ex: Olha o meu programa em C para o cálculo de desconto em um caixa
 ```
@@ -143,3 +144,4 @@ int main()
 ":" introduz emoji
 "[](link)"
 "![descrição da imagem](diretório)" -->
+
