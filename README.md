@@ -1,3 +1,4 @@
+## Olá!!! :bowtie: , esse repósitorio foi criado com o objetivo de trazer para as pessoas que estão começando agora e que não conhece o **Markdown** um pouco de conhecimento em relação a essa linguagem de marcação, lembrando que esse texto está em um nível básico e não está finalizado. ✋
 # Conhecendo o Markdown
 
 Resumidamente o Markdown foi criado por o programador de computador  Aaron Swartz e o designer de UI John Gruber com o intuito de fazer com que as pessoas conseguissem entender o texto melhor e que a conversão de Markdown para Html fosse de certa maneira fácil de se realizar, haja vista que em outras linguagens de marcação como o __Html__ por exemplo,  onde a leitura de todo o código html pode se tornar um pouco confusa por questão de muitas tags e especificações. Sabendo-se disso vamos aprender  os caracteres do **Markdown**.
